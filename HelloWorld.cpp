@@ -5,5 +5,5 @@ int main() {
 	cout<<"Hello, World!";
 	cout<<"luv dis fucking world.";
 	cout<<"change from wjr to test";
-	cout<<"easy come , easy go";
+	cout<<"easy come , easy go"; // from sb 
 } 
