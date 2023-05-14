@@ -8,4 +8,5 @@ int main() {
 	cout<<"easy come , easy go"; // from sb 
 	//zlst's
 	// rq's 
+	//zlst's 2ed
 } 
